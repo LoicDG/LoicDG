@@ -2,26 +2,11 @@
 
 ###
 
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="50" alt="svelte logo"  />
-  <img width="14" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="50" alt="firebase logo"  />
-  <img width="14" />
-  <img src="https://cdn.simpleicons.org/qt/41CD52" height="50" alt="qt logo"  />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,svelte,tailwind,qt" height="50" alt="skills"  /> <br/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,cpp,asm,py,firebase" height="50" alt="skills"  /> <br/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,hackthebox,tryhackme" height="50" alt="skills"  />
 </div>
 
 ###
@@ -31,8 +16,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LoicDG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="180" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=LoicDG&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LoicDG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="180" alt="languages graph" /> <br><!--
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=loicdg&show_icons=true&locale=en&theme=gotham" alt="loicdg" />-->
+  <img align="center" src="https://streak-stats.demolab.com/?user=loicdg&theme=gotham&" alt="loicdg" />
 </div>
 
 ###
