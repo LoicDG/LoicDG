@@ -18,7 +18,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LoicDG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="180" alt="languages graph" /> <br><!--
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=loicdg&show_icons=true&locale=en&theme=gotham" alt="loicdg" />-->
-  <img align="center" src="https://streak-stats.demolab.com/?user=loicdg&theme=gotham&" alt="loicdg" />
+  <!--https://github-readme-streak-stats-eight.vercel.app/demo/-->
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=LoicDG&theme=gotham" alt="GitHub Streak" />
 </div>
 
 ###
